@@ -1,0 +1,165 @@
+green:
+buick          ■
+lincoln        ■
+jeep           ■■
+dodge          ■■■
+chevrolet      ■■■
+ford           ■■■■
+
+black:
+hyundai        ■
+buick          ■
+acura          ■
+mercedes-benz  ■
+harley-davidson■
+chrysler       ■
+maserati       ■
+lincoln        ■
+toyota         ■
+lexus          ■
+jaguar         ■
+honda          ■■
+infiniti       ■■
+cadillac       ■■
+nissan         ■■
+kia            ■■■
+audi           ■■■
+jeep           ■■■
+bmw            ■■■■
+land           ■■■■
+gmc            ■■■■■■■■■■■■■■
+ford           ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+chevrolet      ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+dodge          ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+yellow:
+chevrolet      ■■■
+jeep           ■■■
+
+turquoise:
+chevrolet      ■
+
+brown:
+buick          ■
+honda          ■
+infiniti       ■
+ford           ■■■
+chevrolet      ■■■■
+
+red:
+kia            ■
+gmc            ■■
+chrysler       ■■■
+buick          ■■■
+hyundai        ■■■■
+jeep           ■■■■■■■■
+chevrolet      ■■■■■■■■■■■■■■■■■■■■
+ford           ■■■■■■■■■■■■■■■■■■■■■
+dodge          ■■■■■■■■■■■■■■■■■■■■■■■■■
+
+orange:
+chevrolet      ■
+jeep           ■
+dodge          ■■■■■■■■
+
+gold:
+peterbilt      ■
+gmc            ■
+chrysler       ■■
+chevrolet      ■■
+ford           ■■■■■■
+
+beige:
+chevrolet      ■
+buick          ■
+infiniti       ■
+ford           ■
+
+gray:
+buick          ■
+acura          ■
+mercedes-benz  ■
+kia            ■■
+honda          ■■
+heartland      ■■
+mazda          ■■
+hyundai        ■■■
+cadillac       ■■■
+jeep           ■■■
+infiniti       ■■■■
+bmw            ■■■■
+gmc            ■■■■
+nissan         ■■■■■■■
+chrysler       ■■■■■■■■■
+chevrolet      ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+ford           ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+dodge          ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+blue:
+hyundai        ■
+buick          ■
+mercedes-benz  ■
+infiniti       ■
+audi           ■
+kia            ■■
+honda          ■■
+peterbilt      ■■
+nissan         ■■■
+gmc            ■■■
+bmw            ■■■■■
+ford           ■■■■■■■■■
+chevrolet      ■■■■■■■■■■■■■■■
+dodge          ■■■■■■■■■■■■■■■■■■■■
+
+white:
+buick          ■
+chrysler       ■
+ram            ■
+bmw            ■■
+hyundai        ■■■
+honda          ■■■
+infiniti       ■■■
+heartland      ■■■
+jeep           ■■■
+nissan         ■■■
+cadillac       ■■■■
+mercedes-benz  ■■■■■■
+gmc            ■■■■■■■■■■■■
+dodge          ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+ford           ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+chevrolet      ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+silver:
+acura          ■
+mercedes-benz  ■
+honda          ■
+bmw            ■
+lexus          ■
+buick          ■■
+chrysler       ■■
+nissan         ■■
+hyundai        ■■■
+kia            ■■■■
+jeep           ■■■■■
+gmc            ■■■■■■
+ford           ■■■■■■■■■■■■■■■■■■■■■■■■■
+dodge          ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+chevrolet      ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+
+charcoal:
+jeep           ■■
+chevrolet      ■■■■■■
+
+maroon:
+chevrolet      ■
+
+no_color:
+kia            ■
+buick          ■
+honda          ■
+cadillac       ■
+bmw            ■
+ford           ■■■■
+chevrolet      ■■■■■■■■
+dodge          ■■■■■■■■■■
+
